@@ -1,5 +1,4 @@
 def_q9():
-def q9():
     reais = int(input('digite o valor aqui:'))
     dolar = reais / 3.45
  
